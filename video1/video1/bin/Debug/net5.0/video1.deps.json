@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "video1/1.0.0": {
+        "dependencies": {
+          "SchoolAdminstrationAPI": "1.0.0"
+        },
+        "runtime": {
+          "video1.dll": {}
+        }
+      },
+      "SchoolAdminstrationAPI/1.0.0": {
+        "runtime": {
+          "SchoolAdminstrationAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "video1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolAdminstrationAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

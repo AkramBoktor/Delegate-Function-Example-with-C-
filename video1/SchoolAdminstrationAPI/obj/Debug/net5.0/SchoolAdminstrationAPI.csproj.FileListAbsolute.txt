@@ -1,0 +1,12 @@
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\bin\Debug\net5.0\SchoolAdminstrationAPI.deps.json
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\bin\Debug\net5.0\SchoolAdminstrationAPI.dll
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\bin\Debug\net5.0\ref\SchoolAdminstrationAPI.dll
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\bin\Debug\net5.0\SchoolAdminstrationAPI.pdb
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.csproj.AssemblyReference.cache
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.AssemblyInfoInputs.cache
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.AssemblyInfo.cs
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.csproj.CoreCompileInputs.cache
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.dll
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\ref\SchoolAdminstrationAPI.dll
+D:\Personal files\Advance C#\Codes\video1\SchoolAdminstrationAPI\obj\Debug\net5.0\SchoolAdminstrationAPI.pdb
